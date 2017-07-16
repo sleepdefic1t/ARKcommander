@@ -1,6 +1,6 @@
 # ARKcommander.sh
 
-copied from source: ```https://ark.io/ARKcommander.sh```
+<img style="float: right;" src="https://github.com/Jarunik/ark-media/blob/master/logo/ark-gif-skagosi.gif" width="256" height="256">
 
 ```bash
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
@@ -12,3 +12,4 @@ copied from source: ```https://ark.io/ARKcommander.sh```
 #                                                     #
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 ```
+copied from source: ```https://ark.io/ARKcommander.sh```
